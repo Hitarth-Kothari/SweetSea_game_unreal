@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SweetSeas",
+			"Path": "C:\\Users\\hitu1\\Desktop\\Coding\\Unreal\\Sweet Sea\\SweetSeas\\Source\\SweetSeas.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SweetSeasEditor",
+			"Path": "C:\\Users\\hitu1\\Desktop\\Coding\\Unreal\\Sweet Sea\\SweetSeas\\Source\\SweetSeasEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
